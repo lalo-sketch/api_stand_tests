@@ -4,11 +4,12 @@ headers = {
 }
 
 user_body = {
-    "firstName": "Andrea",
-    "phone": "+11234567890",
-    "address": "123 Elm Street, Hilltop"
+    "firstName": "Lalo",
+    "phone": "+12345678901",
+    "address": "Calle Principal 123"
 }
 
-product_ids = {
-    "ids": [1, 2, 3]
+# Cuerpo base para el kit
+kit_body = {
+    "name": "Mi kit"
 }
